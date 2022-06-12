@@ -16,3 +16,12 @@ cd C:\folder_name
 cd /folder_name
 ```
 
+## листинг директорий 
+### Windows
+```sh
+dir 
+```
+### linux/MacOs
+```sh
+ls
+```
