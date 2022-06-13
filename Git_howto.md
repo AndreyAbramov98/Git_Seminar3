@@ -28,3 +28,7 @@ Git checkout
 ```sh
 Git checkout master
 ```
+### Увидеть разницу между текущим файлом и закоммеченным файлом
+```sh
+Git diff
+```
