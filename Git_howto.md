@@ -12,3 +12,7 @@ Git status
 ```sh
 Git add
 ```
+### Создания комита
+```sh
+Git commit -m "Комментарий"
+```
