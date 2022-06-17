@@ -38,8 +38,12 @@ Git checkout -d "Имя ветки"
 ```sh
 Git checkout "Название ветки"
 ```
-
 ## Создать ветки
 ```sh
 Git branch "Название ветеки"
+```
+
+## Все ветки
+```sh
+Git branch
 ```
