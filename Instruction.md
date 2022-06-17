@@ -48,7 +48,14 @@ Git branch "Название ветеки"
 Git branch
 ```
 
+<<<<<<< HEAD
 ## Короткое описание
 ```sh
 Git log --oneline
 ```
+=======
+## Описание с графиком
+```sh
+Git log --oneline --graph
+```
+>>>>>>> konflikt3
