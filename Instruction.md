@@ -47,3 +47,8 @@ Git branch "Название ветеки"
 ```sh
 Git branch
 ```
+
+## Короткое описание
+```sh
+Git log --oneline
+```
